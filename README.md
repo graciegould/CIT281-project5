@@ -1,9 +1,8 @@
-
 # CIT281-project5
 
  ![Image](p5.png)
 
- # A Monster Game program using classes.
+--A Monster Game program using classes.--
 
 objectives:
 
