@@ -2,10 +2,8 @@
 # CIT281-project5
 
  ![Image](p5.png)
- 
- 
- ## What I did 
- 
+
+ # A Monster Game program using classes.
 
 objectives:
 
